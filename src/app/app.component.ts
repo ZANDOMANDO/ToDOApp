@@ -12,7 +12,7 @@ export class AppComponent {
   completed: boolean = false;
 
   task1: Task = {
-    taskDesc: 'clean kitchen',
+    taskDesc: 'clean room',
     completed: false,
   };
   task2: Task = {
